@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Diego Bermudez Lopez!
 
 🎓 Systems Engineering Student | 💻 Full Stack Developer | ☁️ DevOps & Cloud Enthusiast  
-🚀 Passionate about building scalable, clean, and automated solutions.  
-🔧 Specialized in frontend with React, backend with .NET, DevOps, and cloud deployments.
+🚀 Passionate about building scalable, clean, and automated solutions.
 
 ---
 
 ## 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,cs,python,dotnet,dart,astro,flutter,html,css,tailwind,vite,zustand,shadcn,vercel,nodejs,express,mongodb,mysql,postgresql,sql,docker,linux,git,github,aws,azure,vscode,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,csharp,python,dotnet,dart,astro,flutter,html,css,tailwind,vite,zustand,shadcn,docker,linux,git,github,aws,azure,vscode,visualstudio,figma" />
 </p>
 
 ---
@@ -19,11 +18,10 @@
 ### 🏢 Wayni (Jul 2024 – Apr 2025)
 - 🔧 Frontend: React + Vite + Microfrontends
 - 🛠 Backend: .NET C# with microservices architecture
-- 📦 Databases: MongoDB, MySQL, SQL Server, stored procedures
+- 📦 Databases: MongoDB, MySQL, SQL Server
 - 🧪 DevOps: Docker, GitHub Actions, CI/CD automation
 - ☁️ Cloud: AWS (S3, Lambda, RDS, EC2), Azure Storage, Hostinger Linux
 - 🔌 Integrations: Twilio, Stripe, SMTP, Strapi, HubSpot
-- 📉 Reduced latency by 50% and improved system performance by 35%
 
 ---
 
@@ -33,6 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=D14L8L30&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D14L8L30&layout=compact&theme=github_dark" />
 </p>
+
+> ⚠️ If you still see an error here, please double-check your GitHub username spelling in both links.
 
 ---
 
@@ -44,9 +44,8 @@
 
 - 🧠 Backend Specialization with .NET C# – Héctor de León (Udemy)  
 - 📚 Database and SQL Mastery – Pablo Tilotta (Udemy)  
-- 🌐 Full Web Development Course (HTML, CSS, JS, PHP, MySQL) – Juan Pablo de la Torre (Udemy)  
-- ☁️ Hands-on experience with AWS, Azure & Hostinger cloud infrastructure  
-- 📦 Version control with Git & GitHub (Git Flow)
+- 🌐 Full Web Development Course – Juan Pablo de la Torre (Udemy)  
+- ☁️ Hands-on experience with AWS, Azure & Hostinger
 
 ---
 
