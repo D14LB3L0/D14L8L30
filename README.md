@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D14L8L30&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D14L8L30&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoBermudezLopez&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBermudezLopez&layout=compact&theme=github_dark" />
 </p>
 
 > ⚠️ If you still see an error here, please double-check your GitHub username spelling in both links.
