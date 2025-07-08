@@ -8,7 +8,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,dotnet,csharp,dart,astro,flutter,html,css,tailwind,vite,zustand,shadcn,docker,linux,git,github,aws,azure,vscode,visualstudio,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,dotnet,dart,astro,flutter,html,css,tailwind,vite,zustand,shadcn,docker,linux,git,github,aws,azure,vscode,visualstudio,androidstudio,figma" />
 </p>
 
 ---
